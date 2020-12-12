@@ -12,7 +12,7 @@
 	<groupId>customerdemo</groupId>
 	<artifactId>customer-info</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>students-info</name>
+	<name>customer-info</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
